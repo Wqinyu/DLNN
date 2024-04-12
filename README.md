@@ -33,7 +33,7 @@
 - 训练过程中，模型的权重和偏置将保存在`best_model_weights`文件中。
 - 测试过程中，将使用这些权重来评估模型在测试数据上的性能。
 
-\## 超参数搜索结果 超参数搜索的结果保存在`hyperparameter_search_results.csv`文件中，可用于分析不同超参数对模型性能的影响。 
+## 超参数搜索结果 超参数搜索的结果保存在`hyperparameter_search_results.csv`文件中，可用于分析不同超参数对模型性能的影响。 
 
 ## 可视化结果
 
